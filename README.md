@@ -1,6 +1,8 @@
 # rse-au
 
-Organisation for Research Software Engineers in Australia. We are in the initial stages of building an Australian RSE community. 
+Organisation for Research Software Engineers in Australia. We are in the initial stages of building an Australian RSE community.
+
+Our interim steering committee can be found in [Committee.md](./Committee.md)
 
 # Who are Research Software Engineers?
 
