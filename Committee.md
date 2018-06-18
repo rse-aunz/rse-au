@@ -38,6 +38,7 @@ you want to join interim steering committee or know of someone who might.
 
 ### Victoria
 
+- Nick Golding (Uni Melbourne)
 - Nicholas May (RMIT)
 - Rowland Mosbergen (Nectar) <rowland.mosbergen@nectar.org.au>
 - Sam Moskwa (Aero)
