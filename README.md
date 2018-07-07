@@ -4,6 +4,8 @@ Organisation for Research Software Engineers in Australia. We are in the initial
 
 Our interim steering committee can be found in [Committee.md](./Committee.md)
 
+Join our email group https://groups.google.com/forum/?#!forum/rse-nz-au
+
 # Who are Research Software Engineers?
 
 From the [RSE UK](rse.ac.uk) website:
