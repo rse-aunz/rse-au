@@ -3,7 +3,13 @@
 We are in the initial stages of building an Australian RSE community to raise awareness of the role and bring the community together. In Australia, the term RSE includes academics/researchers who code but are lacking recognition and metrics needed to progress their academic career; professional software engineers working in the research space; and system administrators who maintain research systems.
 
 Our interim steering committee can be found in [Committee.md](./Committee.md)
-----
+
+Join our email group https://groups.google.com/forum/?#!forum/rse-nz-au
+
+# Who are Research Software Engineers?
+
+From the [RSE UK](rse.ac.uk) website:
+
 # Are you an RSE?
 
 If you answer one or more of these questions, then you are probably an RSE:
