@@ -21,7 +21,7 @@ If you answer one or more of these questions, then you are probably an RSE:
 - Are you sometimes not named on research papers despite playing a fundamental part in developing the software used to create them?
 - Do you lack the metrics needed to progress your academic career, like papers and conference presentations, despite having made a significant contribution through software?
 ----
-# Is Australia on it's own when it comes to Research Software Engineers?
+# Is Australia on its own when it comes to Research Software Engineers?
 
 There is a wide international community that started in the UK. Every chapter is different and has different definitions. For example from the [RSE UK](rse.ac.uk) website:
 
