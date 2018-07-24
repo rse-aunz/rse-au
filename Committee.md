@@ -30,9 +30,11 @@ you want to join interim steering committee or know of someone who might.
 - Heidi Perrett (Griffith)
 - Natasha Simons (ANDS)
 - Anthony Truskinger (QUT) [@atruskie](https://twitter.com/atruskie)
-- Gerhard Weiss(Griffith)
+- Gerhard Weiss (Griffith)
 
 ### South Australia
+
+- Jimmy Breen (University of Adelaide)
 
 ### Tasmania
 
@@ -42,7 +44,7 @@ you want to join interim steering committee or know of someone who might.
 - Nicholas May (RMIT)
 - Rowland Mosbergen (Nectar) <rowland.mosbergen@nectar.org.au>
 - Sam Moskwa (Aero)
-- Manodeep Sinha (Swinburn)
+- Manodeep Sinha (Swinburne) <msinha@swin.edu.au>
 - Kerri Wait (Monash)
 - Lance Wilson (Monash)
 - Mingfang Wu (Monash)
