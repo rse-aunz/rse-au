@@ -26,7 +26,7 @@ you want to join interim steering committee or know of someone who might.
 
 ### Queensland
 
-- Amanda Miotto (Griffith)
+- Amanda Miotto (Griffith), until Feb 2019 
 - Heidi Perrett (Griffith)
 - Natasha Simons (ANDS)
 - Anthony Truskinger (QUT) [@atruskie](https://twitter.com/atruskie)
