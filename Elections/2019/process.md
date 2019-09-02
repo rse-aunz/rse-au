@@ -1,10 +1,11 @@
-# Placeholder for Steering Committee Election 2019 process
+# Steering Committee Election 2019 process
 
 | Status | Authoritative location |
 | --- | --- |
 | Accepted | [https://github.com/rse-aunz/rse-au/blob/master/Elections/2019/process.md] |
 
 This document describes the process for nomination and voting for committee positions. This covers the elected positions, the nomination process, the voting process, and the management of casual vacancies. The process is intended to be transparent and inclusive to foster the formation of a diverse committee that reflects a diverse community.
+
 ## Positions
 
 The following committee positions are covered by this election process:
@@ -15,7 +16,9 @@ The elected committee will appoint the following positions, from within the elec
 
 * Chair (1 position)
 * Secretary (1 position)
+
 ## Timeline
+
 The following is a broad timeline of the public actions:
 * Week 0:
    * Committee selects a Returning Officer and Scrutineer.
@@ -43,7 +46,9 @@ The following is a broad timeline of the public actions:
 * Candidates have the option to self-nominate against the following location categories:  (A candidate can only nominate against one category)
    * Australia.
    * New Zealand.
+
 ### Nominations
+
 * The nomination period will be opened by the distribution of a Call for Nominations on the RSE-AUNZ mailing list.
 * The nomination period will remain open for two weeks.
 * Nominations should be made by email to the address specified in the Call, or directly submitted to the Github repository specified by the Returning Office.
@@ -61,6 +66,7 @@ The following is a broad timeline of the public actions:
    * All members of the association's mailing list will be eligible to vote.
 
 ### Confirmation
+
 * All candidates will be informed of the nominations received.
 * There will be a two step collaboration process to select a steering committee without the need for voting.
    * Step 1: Candidates provided with an opportunity to talk with the RSE community in a meeting facilitated and organised by the Returning Officer.
@@ -70,6 +76,7 @@ The following is a broad timeline of the public actions:
 * No new nominations will be accepted in this period.
 
 ### Post-Confirmation
+
 When the confirmation period has ended:
 * Where there are more nominations than positions vacant:
    * All nominations will proceed to an election.
@@ -80,11 +87,13 @@ When the confirmation period has ended:
 ## Election
 
 ### Pre-requisites
+
 * The existing committee will appoint a returning officer, who will not be eligible to nominate for a position.
 * Voters must provide a valid email address.
 * Individual votes will only be visible to the returning officer and the scrutineers.
 
 ### Process
+
 1. The election period will be opened by the distribution of a Call for Voting to the RSE-AUNZ mailing list.
 1. The election period will remain open for two weeks.
 1. Voters will be allowed to select up to 8 candidates in the election.
@@ -105,7 +114,9 @@ When the confirmation period has ended:
 1. The returning officer will:
    * advertise the election results through the RSE-AUNZ mailing list, and
    * inform the elected committee of any Casual Vacancies and tied candidates.
+
 ### Scrutineers
+
 * Scrutineers cannot be nominees in the election.
 * Scrutineers will approve the result and handle disputes.
 * The committee will invite an election scrutineer from an international RSE organization, such as the Society of Research Software Engineering.
@@ -114,4 +125,3 @@ When the confirmation period has ended:
 ## Casual Vacancies
 
 The elected committee will appoint candidates to Casual Vacancies, at the earliest opportunity, with regard to the goals of the organization.
---- end of document ---
