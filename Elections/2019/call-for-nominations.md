@@ -2,7 +2,7 @@
 
 | Status | Authoritative location |
 | --- | --- |
-| Draft | [https://github.com/rse-aunz/rse-au/Elections/2019/call-for-nominations.md] |
+| Draft | [https://github.com/rse-aunz/rse-au/blob/master/Elections/2019/call-for-nominations.md] |
 
 Dear colleagues,
 
