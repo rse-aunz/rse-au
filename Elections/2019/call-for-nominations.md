@@ -19,7 +19,7 @@ To nominate yourself for the election, please submit a GitHub pull request for t
 [2019 nominations file](https://github.com/rse-aunz/rse-au/Elections/2019/nominations.md)
 to the [RSE-AUNZ GitHub repository](https://github.com/rse-aunz/rse-au) or email
 the nomination [directly to me](mailto:matthias.liffers@ardc.edu.au). The deadline
-for nominations is 23:59 AWST on Sunday 15 September 2019 ([convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?continent=australasia&sort=1&p1=196&iso=20190915T2359&msg=RSE-AUNZ%20Nominations%20Deadline)).
+for nominations is 23:59 AWST on Sunday 22 September 2019 ([convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?continent=australasia&sort=1&p1=196&iso=20190915T2359&msg=RSE-AUNZ%20Nominations%20Deadline)).
 
 All nominations must provide:
 * The candidate’s name
