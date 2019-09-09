@@ -2,7 +2,7 @@
 
 | Status | Authoritative location |
 | --- | --- |
-| Not yet open | [https://github.com/rse-aunz/rse-au/Elections/2019/nominations.md] |
+| Not yet open | [https://github.com/rse-aunz/rse-au/blob/master/Elections/2019/nominations.md] |
 
 | Name |  |
 | Affiliation |  |
