@@ -16,7 +16,7 @@ the election. Instructions for joining the mailing list can always be found on
 the [RSE-AUNZ GitHub repository](https://github.com/rse-aunz/rse-au).
 
 To nominate yourself for the election, please submit a GitHub pull request for the
-[2019 nominations file](https://github.com/rse-aunz/rse-au/Elections/2019/nominations.md)
+[2019 nominations file](https://github.com/rse-aunz/rse-au/blob/master/Elections/2019/nominations.md)
 to the [RSE-AUNZ GitHub repository](https://github.com/rse-aunz/rse-au) or email
 the nomination [directly to me](mailto:matthias.liffers@ardc.edu.au). The deadline
 for nominations is 23:59 AWST on Sunday 22 September 2019 ([convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?continent=australasia&sort=1&p1=196&iso=20190915T2359&msg=RSE-AUNZ%20Nominations%20Deadline)).
@@ -40,7 +40,7 @@ to determine the eligibility of candidates. If there are more eligible candidate
 than positions vacant (8), I will announce a voting period of two weeks, commencing
 Monday 23 September 2019.
 
-The [2019 election process](https://github.com/rse-aunz/rse-au/Elections/2019/nominations.md)
+The [2019 election process](https://github.com/rse-aunz/rse-au/blob/master/Elections/2019/process.md)
 is available on the [RSE-AUNZ GitHub repository](https://github.com/rse-aunz/rse-au).
 
 I am managing this election process in the role of Returning Officer and
