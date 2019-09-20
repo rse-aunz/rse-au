@@ -8,12 +8,11 @@ Nominations are in the order received by the Returning Officer. Please see the b
 
 ## Nominees
 
-* [Nicholas May](nicholas_may)
-* [Justin Baker](justin_baker)
-* [Heidi Perrett](heidi_perrett)
+* [Nicholas May](#nicholas_may)
+* [Justin Baker](#justin_baker)
+* [Heidi Perrett](#heidi_perrett)
 
-(#nicholas_may)
-## Nicholas May
+## <a id="nicholas_may" />Nicholas May
 *RMIT University, Melbourne, Australia*
 [nicholas.may@rmit.edu.au](mailto:nicholas.may@rmit.edu.au)
 
@@ -41,8 +40,7 @@ I would like the association to have a greater recognition for the breadth of th
 
 As a member of the interim steering committee, I have co-convened workshops, BoF sessions, and a mini-conference for the RSE-AUNZ at several national conferences. In addition, I have co-authored and presented the Australian version of the International RSE Survey. I have represented RSE-AUNZ and co-chaired the RSE Worldwide session at the UK's RSE Conference. And have taken a leading role to drive forward the development of the association's 'Goals and Deliverables 2019' and 'Election Process 2019'.
 
-(#justin_baker)
-## Justin Baker
+## <a id="justin_baker" /> Justin Baker
 *CSIRO, Melbourne, Australia*
 [justin.baker@csiro.au](mailto:justin.baker@csiro.au)
 
@@ -72,8 +70,7 @@ I have successfully presented abstracts at eResearch Australasia and C3DIS – o
 
 # Template for nominations
 
-(#heidi_perrett)
-## Heidi Perrett
+## <a id="heidi_perrett" /> Heidi Perrett
 *QCIF, Brisbane, Australia*
 [heidi.perrett@qcif.edu.au](mailto:heidi.perrett@qcif.edu.au)
 
