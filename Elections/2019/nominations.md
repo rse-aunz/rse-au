@@ -64,6 +64,26 @@ I have successfully presented abstracts at eResearch Australasia and C3DIS – o
 
 # Template for nominations
 
+## Heidi Perrett
+*QCIF, Brisbane, Australia*
+[heidi.perrett@qcif.edu.au](mailto:heidi.perrett@qcif.edu.au)
+
+### Relevant Experience
+
+*What skills will you bring to the committee?*
+
+I have been in the eResearch space for the last 10 years and undertaken various roles in support, development and management during this time.
+
+I can provide insight into what is has been like coming from an IT background into the Research environment and through researcher outreach activities like Software Carpentry, HackyHour & Research Bazaar I have been able to connect with people who have come from a Research background and have found themselves learning IT skills.
+
+I have also been a part of the RSE community and have been an interim steering committee member for the past year.
+
+*What would you like to change through your involvement on the committee?*
+
+* I would like to see recognition of the skillset crossover (IT and Research) through position description names
+* I would like to get a better idea of what type of skills recognition the community is looking for and work towards achieving this
+* I would like to start work on a recognised skillset baseline (that is flavour (aka php, python, JS) agnostic) for people in this field already and for those looking to get into it
+
 ## Your Name Here
 *Institution, City, Country*
 [your.email@address.com](mailto:your.email@address.com)
