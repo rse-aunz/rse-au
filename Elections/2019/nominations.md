@@ -1,4 +1,4 @@
-# Nominations for RSE-AUNZ Steering Committee Election 2019
+# <a id="top" /> Nominations for RSE-AUNZ Steering Committee Election 2019
 
 | Status | Authoritative location |
 | --- | --- |
@@ -40,6 +40,8 @@ I would like the association to have a greater recognition for the breadth of th
 
 As a member of the interim steering committee, I have co-convened workshops, BoF sessions, and a mini-conference for the RSE-AUNZ at several national conferences. In addition, I have co-authored and presented the Australian version of the International RSE Survey. I have represented RSE-AUNZ and co-chaired the RSE Worldwide session at the UK's RSE Conference. And have taken a leading role to drive forward the development of the association's 'Goals and Deliverables 2019' and 'Election Process 2019'.
 
+[Back to top](#top)
+
 ## <a id="justin_baker" /> Justin Baker
 *CSIRO, Melbourne, Australia*
 [justin.baker@csiro.au](mailto:justin.baker@csiro.au)
@@ -68,7 +70,7 @@ I’m really keen to see the RSE movement achieve recognition and acceptance in 
 
 I have successfully presented abstracts at eResearch Australasia and C3DIS – on Scientific Visualisation and the delivery of eResearch services. My latest co-authored submission to eResearch Australasia is accessible [here](https://conference.eresearch.edu.au/wp-content/uploads/2019/08/2019_eResearch_24_Brief-Review-of-eResearch-Service-Provision-in-CSIRO-2019.pdf).
 
-# Template for nominations
+[Back to top](#top)
 
 ## <a id="heidi_perrett" /> Heidi Perrett
 *QCIF, Brisbane, Australia*
@@ -90,7 +92,11 @@ I have also been a part of the RSE community and have been an interim steering c
 * I would like to get a better idea of what type of skills recognition the community is looking for and work towards achieving this
 * I would like to start work on a recognised skillset baseline (that is flavour (aka php, python, JS) agnostic) for people in this field already and for those looking to get into it
 
-## Your Name Here
+[Back to top](#top)
+
+# Template for nominations
+
+## <a id="your_name_here" /> Your Name Here
 *Institution, City, Country*
 [your.email@address.com](mailto:your.email@address.com)
 
@@ -105,3 +111,5 @@ I have also been a part of the RSE community and have been an interim steering c
 *What would you like to change through your involvement on the committee?*
 
 *If you have already contributed to the RSE community, please list those contributions below.*
+
+[Back to top](#top)
