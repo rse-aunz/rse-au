@@ -1,4 +1,4 @@
-﻿# Nominations for RSE-AUNZ Steering Committee Election 2019
+﻿# <a id="top" /> Nominations for RSE-AUNZ Steering Committee Election 2019
 
 | Status | Authoritative location |
 | --- | --- |
@@ -6,7 +6,14 @@
 
 Nominations are in the order received by the Returning Officer. Please see the bottom of this document for a template.
 
-## Nicholas May
+## Nominees
+
+* [Nicholas May](#nicholas_may)
+* [Justin Baker](#justin_baker)
+* [Heidi Perrett](#heidi_perrett)
+* [Daniel Collins](#daniel_collins)
+
+## <a id="nicholas_may" />Nicholas May
 *RMIT University, Melbourne, Australia*
 [nicholas.may@rmit.edu.au](mailto:nicholas.may@rmit.edu.au)
 
@@ -34,7 +41,9 @@ I would like the association to have a greater recognition for the breadth of th
 
 As a member of the interim steering committee, I have co-convened workshops, BoF sessions, and a mini-conference for the RSE-AUNZ at several national conferences. In addition, I have co-authored and presented the Australian version of the International RSE Survey. I have represented RSE-AUNZ and co-chaired the RSE Worldwide session at the UK's RSE Conference. And have taken a leading role to drive forward the development of the association's 'Goals and Deliverables 2019' and 'Election Process 2019'.
 
-## Justin Baker
+[Back to top](#top)
+
+## <a id="justin_baker" /> Justin Baker
 *CSIRO, Melbourne, Australia*
 [justin.baker@csiro.au](mailto:justin.baker@csiro.au)
 
@@ -62,14 +71,36 @@ I’m really keen to see the RSE movement achieve recognition and acceptance in 
 
 I have successfully presented abstracts at eResearch Australasia and C3DIS – on Scientific Visualisation and the delivery of eResearch services. My latest co-authored submission to eResearch Australasia is accessible [here](https://conference.eresearch.edu.au/wp-content/uploads/2019/08/2019_eResearch_24_Brief-Review-of-eResearch-Service-Provision-in-CSIRO-2019.pdf).
 
-## Daniel Collins
+## <a id="heidi_perrett" /> Heidi Perrett
+*QCIF, Brisbane, Australia*
+[heidi.perrett@qcif.edu.au](mailto:heidi.perrett@qcif.edu.au)
+
+### Relevant Experience
+
+*What skills will you bring to the committee?*
+
+I have been in the eResearch space for the last 10 years and undertaken various roles in support, development and management during this time.
+
+I can provide insight into what is has been like coming from an IT background into the Research environment and through researcher outreach activities like Software Carpentry, HackyHour & Research Bazaar I have been able to connect with people who have come from a Research background and have found themselves learning IT skills.
+
+I have also been a part of the RSE community and have been an interim steering committee member for the past year.
+
+*What would you like to change through your involvement on the committee?*
+
+* I would like to see recognition of the skillset crossover (IT and Research) through position description names
+* I would like to get a better idea of what type of skills recognition the community is looking for and work towards achieving this
+* I would like to start work on a recognised skillset baseline (that is flavour (aka php, python, JS) agnostic) for people in this field already and for those looking to get into it
+
+[Back to top](#top)
+
+## <a id="daniel_collins" /> Daniel Collins
 
 *CSIRO, Canberra, Australia*
 [daniel.collins@csiro.au](mailto:daniel.collins@csiro.au)
 
 ### Diversity Statement
 
-I am a firm believer in the value of diverse teams. A wide range of backgrounds enhances both the team and the organisation to which it belongs. My commitment to diversity is reflected in the software engineering teams I have helped build. For example, a team that I formed in 2010 was dubbed "the United Nations" by team members due to the wide range of nationalities represented. The team was also diverse in both gender and religion. This team achieved great results under tremendous pressure, and the differing perspectives of team members contributed substantially to the outcomes. Currently I am supervising a female indigenous cadet whose cadetship is due to end before the end of her studies. I am working with both her and management to find a way to continue supporting her studies beyond the official end of the cadetship term.
+I am a firm believer in the value of diverse teams. A wide range of backgrounds enhances both the team and the organisation to which it belongs. My commitment to diversity is reflected in the software engineering teams I have helped build. For example, a team that I formed in 2010 was dubbed "the United Nations" by team members due to the wide range of nationalities represented. The team was also diverse in both gender and religion. This team achieved great results under tremendous pressure, and the differing perspectives of team members contributed substantially to the outcomes.
 
 ### Relevant Experience
 
@@ -95,9 +126,11 @@ I have not formally contributed to the RSE community in the past, and this is ex
 
 Having said that, many of my activities are relevant. For example, I have taught Python programming workshops focused on scientific applications for several years at the C3DIS conference. I have also taught Python programming through webinars as well as developing and teaching software carpentry material on Python programming for the CSIRO Data School. All of these activities have been fueled by my love of software engineering and my desire to help raise the standard of software engineering practices among researchers.
 
+[Back to top](#top)
+
 # Template for nominations
 
-## Your Name Here
+## <a id="your_name_here" /> Your Name Here
 *Institution, City, Country*
 [your.email@address.com](mailto:your.email@address.com)
 
@@ -112,3 +145,5 @@ Having said that, many of my activities are relevant. For example, I have taught
 *What would you like to change through your involvement on the committee?*
 
 *If you have already contributed to the RSE community, please list those contributions below.*
+
+[Back to top](#top)
