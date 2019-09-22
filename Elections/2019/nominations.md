@@ -1,4 +1,4 @@
-﻿# <a id="top" /> Nominations for RSE-AUNZ Steering Committee Election 2019
+# <a id="top" /> Nominations for RSE-AUNZ Steering Committee Election 2019
 
 | Status | Authoritative location |
 | --- | --- |
@@ -14,7 +14,6 @@ Nominations are in the order received by the Returning Officer. Please see the b
 * [Daniel Collins](#daniel_collins)
 * [Nooriyah Poonawala Lohani](#nooriyah_poonawala_lohani)
 * [Manodeep Sinha](#manodeep_sinha)
-
 
 ## <a id="nicholas_may" />Nicholas May
 *RMIT University, Melbourne, Australia*
@@ -73,6 +72,8 @@ I’m really keen to see the RSE movement achieve recognition and acceptance in 
 *If you have already contributed to the RSE community, please list those contributions below.*
 
 I have successfully presented abstracts at eResearch Australasia and C3DIS – on Scientific Visualisation and the delivery of eResearch services. My latest co-authored submission to eResearch Australasia is accessible [here](https://conference.eresearch.edu.au/wp-content/uploads/2019/08/2019_eResearch_24_Brief-Review-of-eResearch-Service-Provision-in-CSIRO-2019.pdf).
+
+[Back to top](#top)
 
 ## <a id="heidi_perrett" /> Heidi Perrett
 *QCIF, Brisbane, Australia*
@@ -221,7 +222,6 @@ various local and remote RSE meetups, C3DIS, the international RSE survey in
 2018 etc.
 
 [Back to top](#top)
-
 
 # Template for nominations
 
