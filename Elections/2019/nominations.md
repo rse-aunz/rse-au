@@ -151,8 +151,8 @@ Having said that, many of my activities are relevant. For example, I have taught
 
 
 ## <a id="manodeep_sinha" /> Manodeep Sinha
-*Institution, City, Country*
-[your.email@address.com](mailto:your.email@address.com)
+*Swinburne University of Technology, Melbourne, Australia*
+[msinha@swin.edu.au](mailto:msinha@swin.edu.au)
 
 ### Diversity Statement
 At the fundamental level, I see diversity as the natural outcome of creating
