@@ -12,6 +12,8 @@ Nominations are in the order received by the Returning Officer. Please see the b
 * [Justin Baker](#justin_baker)
 * [Heidi Perrett](#heidi_perrett)
 * [Daniel Collins](#daniel_collins)
+* [Nooriyah Poonawala Lohani](#nooriyah_poonawala_lohani)
+* [Manodeep Sinha](#manodeep_sinha)
 
 ## <a id="nicholas_may" />Nicholas May
 *RMIT University, Melbourne, Australia*
@@ -125,6 +127,140 @@ Finally, I want to see the RSE community grow and thrive both locally and intern
 I have not formally contributed to the RSE community in the past, and this is exactly why I am applying. I feel a strong connection with the community so it's time to put in some work.
 
 Having said that, many of my activities are relevant. For example, I have taught Python programming workshops focused on scientific applications for several years at the C3DIS conference. I have also taught Python programming through webinars as well as developing and teaching software carpentry material on Python programming for the CSIRO Data School. All of these activities have been fueled by my love of software engineering and my desire to help raise the standard of software engineering practices among researchers.
+
+[Back to top](#top)
+
+## <a id="nooriyah_poonawala_lohani" /> Nooriyah Poonawala Lohani
+*New Zealand eScience Infrastructure and The University of Auckland, Auckland, New Zealand*
+[nooriyah.lohani@nesi.org.nz](mailto:nooriyah.lohani@nesi.org.nz)
+
+### Diversity Statement
+
+“Inclusion works to the advantage of everyone. We all have things to learn and we all have
+something to teach.” – Kurth and Gross, The Inclusion Toolbox, page 87
+This quote was written in a book that talked about implementing research-based strategies
+to create more inclusive education programs. Strategies such as these can be implemented
+in most scenarios, including building our RSE community. Diversity can come in many forms
+and taking it into account can make sure our community is a space for growth, learning,
+support, opportunity and this will ensure its sustainability.
+
+### Relevant Experience
+
+*In 100 words, describe your experience of working as a Research Software Engineer.*
+
+I have completed a Bachelor of Science majoring in Computer science and Genomics,
+Postgraduate Diploma in bioinformatics and a MSc in Bioinformatics.
+
+After my Masters I spent 5 years working in the Bioinformatics research, initially in a
+commercial environment (a cancer diagnostics company) and then at a University.
+
+I am currently working at NeSI as a research communities advisor, where my role is focussed
+on supporting research communities in New Zealand.
+
+I am also currently doing my PhD, where I am looking at using machine learning models to
+predict influenza epidemics and pandemics in New Zealand.
+
+*What skills will you bring to the committee?*
+
+Along with my technical skills, in Bioinformatics and machine learning I am looking forward
+to using my community building and engagement skills to the RSE community.
+
+Through my current role and studies, I can contribute by
+* delivering training programs (such as carpentries)
+* keeping the community engaged
+* understanding the communities requirements
+* working together with community leaders to achieve goals that we set as a community
+
+*What would you like to change through your involvement on the committee?*
+
+I would like to see RSE’s being recognised for their contributions in research across Australia
+and New Zealand. I would like to create stronger relationships with RSE communities in
+other countries to learn from and contribute to the local and global community. While
+creating strategic direction is important, I would like to convert conversations into
+actionable tasks to enable the community to achieve goals .
+
+*If you have already contributed to the RSE community, please list those contributions below.*
+
+As part of the interim RSE steering committee, I have worked with other committee
+members to contribute to RSE community events (i.e. RSE Workshop at eResearch
+Australasia 2018, RSE Bof at eResearch NZ, etc.). I participate in interim steering committee
+meetings to participate in the planning of RSE community activities.
+I have worked with Australian and UK representatives to coordinate the NZ chapter of the
+International RSE Survey. I have analysed and presented the finding of this survey in
+Australia (ARDC Tech talk) and New Zealand (eResearch NZ 2019, Science coding conference
+2019).
+
+[Back to top](#top)
+
+## <a id="manodeep_sinha" /> Manodeep Sinha
+*Swinburne University of Technology, Melbourne, Australia*
+[msinha@swin.edu.au](mailto:msinha@swin.edu.au)
+
+### Diversity Statement
+At the fundamental level, I see diversity as the natural outcome of creating
+equitable and inclusive systems. While research has shown that diverse teams
+lead to better outcomes, the fundamental justification for inclusive workplace
+systems stems from a fairness viewpoint -- setting up diverse teams is just the
+right thing to do.
+
+There are challenges with the balance of representation in the workforce,
+particularly within the eresearch sector. In order to improve the
+representation, we need to work both at the policy and organisation levels.
+
+
+### Relevant Experience
+
+*In 100 words, describe your experience of working as a Research Software Engineer.*
+
+I have nearly 20 years of experience in research, including almost 30
+publications, numerous talks, conference proceedings. In recent years, I have
+also lead and assisted with organising research training activities for
+Australian astronomers.
+
+I am a typical example of a Research Software Engineer. I spend a significant
+chunk of time writing and debugging code for my research group (ARC Centre of
+Excellence, ASTRO 3D). I create and maintaining high-quality open-source
+research software and teach other researchers and students how to write
+code. Despite all of this necessary work, the primary metric to measure my
+productivity is still the number of publications. Consequently, in spite of
+being acknowledged as a leader in research software within the astronomical
+community, I do not have an academic position commensurate with my experience
+and reputation.
+
+
+*What skills will you bring to the committee?*
+
+I am an academic involved in many aspects of research software --
+designing and developing new software, maintaining old code-bases and training
+researchers in modern computing practices.  I understand the challenges faced
+by both the vulnerable students and postdocs who lack the training to produce
+high quality research software. As a founding member of the current RSE
+chapter, I have the necessary vision and leadership skills required to create
+and sustain a prosperous RSE community.
+
+
+*What would you like to change through your involvement on the committee?*
+
+The key priorities for the RSE community are awareness and recognition for the
+RSE role. I am on several national committees in astronomy -- e.g., EMCR
+representative at the National Committee for Astronomy (Australian Academy of
+Science) and the Early Career Researcher Chapter for The Astronomical Society
+of Australia. I will aim to raise awareness for the critical role of software
+in research and recognition for the contribution from RSEs.
+
+Also, as a member of the committee, I would like to engage with national
+organisations to find concrete ways to improve diversity in the RSE community.
+
+
+*If you have already contributed to the RSE community, please list those contributions below.*
+
+In 2017, I took the initiative to contact with RSE UK to establish the current
+RSE Chapter in Australia and New Zealand. As a member of the Interim Steering
+Committee, I was involved with nearly all activities undertaken for the RSE
+community. These activities include the inaugural round table discussion at
+eResearch Australasia, in 2017, remote presentations for UKRSE Workshop (2017),
+various local and remote RSE meetups, C3DIS, the international RSE survey in
+2018 etc.
 
 [Back to top](#top)
 
