@@ -1,4 +1,4 @@
-# <a id="top" /> Nominations for RSE-AUNZ Steering Committee Election 2019
+﻿# <a id="top" /> Nominations for RSE-AUNZ Steering Committee Election 2019
 
 | Status | Authoritative location |
 | --- | --- |
@@ -11,6 +11,7 @@ Nominations are in the order received by the Returning Officer. Please see the b
 * [Nicholas May](#nicholas_may)
 * [Justin Baker](#justin_baker)
 * [Heidi Perrett](#heidi_perrett)
+* [Daniel Collins](#daniel_collins)
 
 ## <a id="nicholas_may" />Nicholas May
 *RMIT University, Melbourne, Australia*
@@ -56,7 +57,7 @@ I am a strong advocate of the finding that diverse teams are better performing t
 
 I have a BSc in Computer Science, Master of Information Technology and Grad Dip in Biotechnology & Business.
 
-I have worked as a software developer at Monash University and the Bureau of Meteorology. I am currently leading the Data Analytics and Visualisation Team of eight developers in CSIRO’s Scientific Computing Group.  
+I have worked as a software developer at Monash University and the Bureau of Meteorology. I am currently leading the Data Analytics and Visualisation Team of eight developers in CSIRO’s Scientific Computing Group.
 
 *What skills will you bring to the committee?*
 
@@ -69,8 +70,6 @@ I’m really keen to see the RSE movement achieve recognition and acceptance in 
 *If you have already contributed to the RSE community, please list those contributions below.*
 
 I have successfully presented abstracts at eResearch Australasia and C3DIS – on Scientific Visualisation and the delivery of eResearch services. My latest co-authored submission to eResearch Australasia is accessible [here](https://conference.eresearch.edu.au/wp-content/uploads/2019/08/2019_eResearch_24_Brief-Review-of-eResearch-Service-Provision-in-CSIRO-2019.pdf).
-
-[Back to top](#top)
 
 ## <a id="heidi_perrett" /> Heidi Perrett
 *QCIF, Brisbane, Australia*
@@ -91,6 +90,41 @@ I have also been a part of the RSE community and have been an interim steering c
 * I would like to see recognition of the skillset crossover (IT and Research) through position description names
 * I would like to get a better idea of what type of skills recognition the community is looking for and work towards achieving this
 * I would like to start work on a recognised skillset baseline (that is flavour (aka php, python, JS) agnostic) for people in this field already and for those looking to get into it
+
+[Back to top](#top)
+
+## <a id="daniel_collins" /> Daniel Collins
+
+*CSIRO, Canberra, Australia*
+[daniel.collins@csiro.au](mailto:daniel.collins@csiro.au)
+
+### Diversity Statement
+
+I am a firm believer in the value of diverse teams. A wide range of backgrounds enhances both the team and the organisation to which it belongs. My commitment to diversity is reflected in the software engineering teams I have helped build. For example, a team that I formed in 2010 was dubbed "the United Nations" by team members due to the wide range of nationalities represented. The team was also diverse in both gender and religion. This team achieved great results under tremendous pressure, and the differing perspectives of team members contributed substantially to the outcomes.
+
+### Relevant Experience
+
+*In 100 words, describe your experience of working as a Research Software Engineer.*
+
+I hold a Bachelor of Computer Science with a major in psychology, and have worked as a professional software engineer since 2000. In 2010 I joined CSIRO. From 2010 to late 2012 I was team lead of a diverse team building web applications for the biosecurity sector. I then moved to the Advanced Scientific Computing group where I have remained to the present day, first as software engineer, and since 2018 as team lead of the Research Software Engineering team. In this time I have worked on research projects across many science domains, from veterinary pathology to radio astronomy.
+
+*What skills will you bring to the committee?*
+
+I have a deep experience of the challenges facing professional software engineers working in research, both first-hand and through supporting my colleagues and staff. From this experience comes a firm commitment to furthering the agenda of the Research Software Engineering community. Additionally, I have studied and practiced both project management and change management in the last 10 years. My project management expertise will be valuable in coordinating RSE Committee activities and projects, while my change management expertise brings a valuable perspective to any activities that seek effective change. Finally, I also have experience in teaching fundamental software engineering skills and programming to researchers through conference workshops, webinars, and the CSIRO Digital Academy.
+
+*What would you like to change through your involvement on the committee?*
+
+Despite some improvements, adequate recognition of the contributions of software engineers to research outcomes remains a challenge. Some science domains and research groups do better than others. I believe that the RSE community can play a valuable role by developing and promoting guidelines and practices that ensure that RSEs gain consistent recognition commensurate with their contribution to research outcomes. This is an area that I would like to actively develop.
+
+Secondly, I think that education is important. As a professional software engineer working in tandem with domain scientists, I have for many years seen the problems caused by the lack of some fundamental software engineering skills among researchers who code. I believe that the RSE community can play a role in defining the competencies that make up the RSE toolbox.
+
+Finally, I want to see the RSE community grow and thrive both locally and internationally. My reaction when first reading of the RSE movement was "Yes! Finally a description of what I have been doing for years."
+
+*If you have already contributed to the RSE community, please list those contributions below.*
+
+I have not formally contributed to the RSE community in the past, and this is exactly why I am applying. I feel a strong connection with the community so it's time to put in some work.
+
+Having said that, many of my activities are relevant. For example, I have taught Python programming workshops focused on scientific applications for several years at the C3DIS conference. I have also taught Python programming through webinars as well as developing and teaching software carpentry material on Python programming for the CSIRO Data School. All of these activities have been fueled by my love of software engineering and my desire to help raise the standard of software engineering practices among researchers.
 
 [Back to top](#top)
 
