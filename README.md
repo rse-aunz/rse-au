@@ -8,7 +8,7 @@ Join our email group https://groups.google.com/forum/?#!forum/rse-nz-au
 
 # Who are Research Software Engineers?
 
-From the [RSE UK](rse.ac.uk) website:
+From the [RSE UK](https://rse.ac.uk/) website:
 
 # Are you an RSE?
 
@@ -23,7 +23,7 @@ If you answer one or more of these questions, then you are probably an RSE:
 ----
 # Is Australia on its own when it comes to Research Software Engineers?
 
-There is a wide international community that started in the UK. Every chapter is different and has different definitions. For example from the [RSE UK](rse.ac.uk) website:
+There is a wide international community that started in the UK. Every chapter is different and has different definitions. For example from the [RSE UK](https://rse.ac.uk/) website:
 
 **A growing number of people in academia combine expertise in programming with an intricate understanding of research. Although this combination of skills is extremely valuable, these people lack a formal place in the academic system**. 
 
