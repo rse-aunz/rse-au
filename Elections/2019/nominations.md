@@ -14,6 +14,7 @@ Nominations are in the order received by the Returning Officer. Please see the b
 * [Daniel Collins](#daniel_collins)
 * [Nooriyah Poonawala Lohani](#nooriyah_poonawala_lohani)
 * [Manodeep Sinha](#manodeep_sinha)
+* [Rebecca Lange](#rebecca_lange)
 
 ## <a id="nicholas_may" />Nicholas May
 *RMIT University, Melbourne, Australia*
@@ -261,6 +262,46 @@ community. These activities include the inaugural round table discussion at
 eResearch Australasia, in 2017, remote presentations for UKRSE Workshop (2017),
 various local and remote RSE meetups, C3DIS, the international RSE survey in
 2018 etc.
+
+[Back to top](#top)
+
+## <a id="rebecca_lange" /> Rebecca Lange
+
+*Curtin University, Perth, Australia*
+[rebecca.lnage@curtin.edu.au](mailto:rebecca.lnage@curtin.edu.au)
+
+### Diversity Statement
+
+Diversity to me means more than having a gender balance and a representation of minorities in the workplace. It also means having different skills and (cultural) backgrounds represented.
+In terms of the RSE community I believe it is important to promote our diversity of geographical locations and work environments as well as the RSE role itself. RSEs are important across all fields of research and are varied in their backgrounds coming from, e.g., research as well as software development and hence the RSE community also needs a diverse team of representatives.
+
+*A statement describing how the candidate will contribute to ensure that the association is diverse.*
+
+I can promote the association in Western Australia by becoming one of its local champions, helping increase the reach of the RSE across AUNZ. I am well placed to do so as work for the Curtin Institute for Computation (CIC) which has a wide reach across the universities and industry partners in WA.
+
+Additionally, I can help with issues of gender diversity as I am already involved with several groups promoting diversity such as the R-Ladies Perth and the Curtin STEMmettes. I can also help with the diverse needs of the RSE community by helping promote training opportunities and influencing training offerings through my role as a Carpentries’ trainer,  ResBaz co-organiser and training lead for the Astronomy Data And Computing Services (ADACS).
+
+
+### Relevant Experience
+
+*In 100 words, describe your experience of working as a Research Software Engineer.*
+
+I switched to an RSE role supporting researchers with computational projects 4 years ago. Since I joined the CIC I had the opportunity to help grow our team from 4 to ~10 as we have seen the number of project requests grow.
+I find the work rewarding as I get to help many researchers on various projects and the amount of projects we have lined up shows how important the work we do is. However, while our team was growing it has become obvious that there is no defined career path making academia a less attractive long term option.
+
+*What skills will you bring to the committee?*
+
+Through my position at the CIC I have connections into all WA universities as well as industry partners, which will help me promote the RSE community and their needs to a wide range of people. Working with researchers across various fields I also have an understanding for their different needs and how this translates into an RSE role within academia.
+
+*What would you like to change through your involvement on the committee?*
+
+I would like to help promote the RSE community across the board, helping stakeholders understand the growing importance of computational/research software focused roles within the university workforce and work towards increasing career opportunities for RSE within academia.
+Furthermore, I would like to work on providing more professional development opportunities to RSE, be that technical or soft skills, as I find that much of the universities’ offerings are around traditional pure research or professional staff roles.
+
+*If you have already contributed to the RSE community, please list those contributions below.*
+
+I attended the RSE mini-conference at the 2019 eResearch conference and also helped with running the RSE BOF session during the conference.
+As part of my role for ADACS I have organised and supported several workshops teaching computational and software development skills to the community, promoting the importance of research software and roles dedicated to creating software. I am also involved in the efforts to put together a white paper on data science careers within astronomy and academia by extension, prompted by the upcoming mid-term review of the decadal plan for Australian astronomy.
 
 [Back to top](#top)
 
